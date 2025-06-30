@@ -1,34 +1,20 @@
-# letsroti.com/helper - R.O.T.I. Helper Bot 
+# 🤖 letsroti.com/helper — The Official Helper Bot for R.O.T.I.
 
-A powerful helper bot for the R.O.T.I. ecosystem that simplifies operations, enhances utility, and provides early access to beta features.
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![Discord](https://img.shields.io/badge/Discord-Bot-7289DA?logo=discord)
+![Status](https://img.shields.io/badge/Status-Private_Internal-yellow)
 
-## 🚀 About
-
-`letsroti.com/helper` is an all-in-one support bot built for the R.O.T.I. platform. It's designed to streamline internal processes, assist moderators, and test upcoming features before they go live on the main bot.
-
----
-
-## 🧰 Features
-
-- 🔧 **Utility Commands**: Quick shortcuts to simplify server management and user interactions.
-- 🧪 **Beta Testing**: Access experimental features before public rollout.
-- 🛠️ **Operational Tools**: Internal commands to monitor, debug, and manage R.O.T.I.'s services.
-- 🤝 **Partner Support**: Tools to manage partner servers, roles, and perks.
+A versatile and modular helper bot built for the R.O.T.I. platform.  
+This bot simplifies core operations, supports moderators, and serves as the testing ground for upcoming beta features.
 
 ---
 
-## 📎 Usage
+## 🌐 Overview
 
-Invite the bot using the private internal invite (not public). Once added:
+`letsroti.com/helper` is an internal-use Discord bot that works alongside the main R.O.T.I. bot. It's used for:
 
-- Use `.help` to see all available commands.
-- Prefix: `.`
-- Beta commands are marked with a 🧪 emoji.
-
----
-
-## 🧪 Beta Access
-
-Commands in testing are released under a special category. These may be unstable or experimental, and are for internal use only. Feedback is encouraged!
-
+- Streamlining operations
+- Testing beta commands
+- Managing roles, events, and integrations
+- Supporting team-only and partner-only workflows
 
