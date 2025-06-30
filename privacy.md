@@ -82,8 +82,9 @@ We may update this Privacy Policy from time to time. When we do, we will revise 
 
 ## 9. Contact
 
-For questions, feedback, or data-related requests, please reach out via our [Support Server](https://discord.gg/ATDWdBFMzW).
-iF the invite link doesnt work, reach out to userID: 782128271876816906 (beingrkn)
+For questions, feedback, or data-related requests, please reach out via our [Support Server](https://discord.gg/ATDWdBFMzW). IF the invite link doesnt work, reach out to the following users:
+- 782128271876816906 (beingrkn)
+- 1146451538181623908 (lakshayay)
 
 ---
 
